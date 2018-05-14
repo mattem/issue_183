@@ -2,7 +2,7 @@
   "name": "issue_183",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Matt Mackay <mmackay@evertz.com>",
+  "author": "Matt Mackay",
   "license": "MIT",
   "devDependencies": {
     "typescript": "2.5.3"
